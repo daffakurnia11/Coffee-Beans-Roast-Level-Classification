@@ -1,2 +1,6 @@
 Augmentation
 Source
+alexnet-coffee-roast-level-state-dict.pth
+alexnet-coffee-roast-level.pth
+resnet50-coffee-roast-level-state-dict.pth
+resnet50-coffee-roast-level.pth
